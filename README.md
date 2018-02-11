@@ -1,2 +1,3 @@
 # Python_exercise
-Backup of coding exercise in python.
+Coding exercise in python.
+The regulation of file names: date_leetcode number_name of this problem
